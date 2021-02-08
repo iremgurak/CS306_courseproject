@@ -1,1 +1,1 @@
-# CS306_courseproject
+# CS306 Database Systems Course Project
